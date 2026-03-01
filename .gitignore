@@ -3,11 +3,9 @@
 *.dll
 *.so
 *.dylib
-docker-cleaner.exe
-
+.idea
 *.test
 *.out
-
 vendor/
 
 .DS_Store

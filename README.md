@@ -32,7 +32,7 @@ Built with Go and the awesome Bubble Tea framework.
 Ensure you have Go installed. Then run:
 
 ```bash
-go install github.com/yourusername/dclean@latest
+go install github.com/DmytroBabarytskyi/docker-cleaner@latest
 ```
 
 > **Note:** Replace `yourusername` with your actual GitHub username once pushed.
@@ -42,10 +42,10 @@ go install github.com/yourusername/dclean@latest
 ### Alternatively, clone the repository and build it manually:
 
 ```bash
-git clone https://github.com/yourusername/dclean.git
-cd dclean
-go build -o dclean .
-./dclean
+git clone https://github.com/DmytroBabarytskyi/docker-cleaner.git
+cd docker-cleaner
+go build -o docker-cleaner .
+./docker-cleaner
 ```
 
 ---
