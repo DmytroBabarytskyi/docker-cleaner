@@ -35,8 +35,6 @@ Ensure you have Go installed. Then run:
 go install github.com/DmytroBabarytskyi/docker-cleaner@latest
 ```
 
-> **Note:** Replace `yourusername` with your actual GitHub username once pushed.
-
 ---
 
 ### Alternatively, clone the repository and build it manually:
@@ -95,4 +93,4 @@ go build -o docker-cleaner .
 
 ## 📄 License
 
-This project is licensed under the MIT License — see the `LICENSE` file for details.
+This project is licensed under the MIT License - see the `LICENSE` file for details.
